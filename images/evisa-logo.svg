@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" width="140" height="88">
+  <!-- Red 'e' Logo Circle -->
+  <circle cx="45" cy="45" r="38" fill="#CE1126"/>
+  <!-- Inner White 'e' character -->
+  <path d="M 58,40 Q 58,26 42,26 Q 26,26 26,42 Q 26,58 44,58 Q 54,58 58,51 L 50,47 Q 47,51 43,51 Q 34,51 34,44 L 58,44 Z M 34,38 Q 35,32 42,32 Q 49,32 50,38 Z" fill="#FFFFFF"/>
+  <!-- VISA text -->
+  <text x="86" y="44" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="28" fill="#111111" letter-spacing="1">VISA</text>
+  <!-- Jordan Subtext -->
+  <text x="88" y="58" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="12" fill="#007A3D">Jordan</text>
+  <!-- Arabic Subtext -->
+  <text x="88" y="74" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#007A3D" direction="rtl">تأشيرة إلكترونية</text>
+</svg>
